@@ -1,0 +1,395 @@
+{
+  "de": {
+    "navigation": {
+      "home": "Startseite",
+      "about": "Über Uns",
+      "areas": "Rechtsgebiete",
+      "team": "Unser Team",
+      "contact": "Kontakt"
+    },
+    "home": {
+      "heroTitle": "Wir verhelfen Ihnen zu Ihrem Recht!",
+      "heroSubtitle": "Moderne und effektive Lösungen für Ihre rechtlichen Probleme.",
+      "cta": "Kostenlose Erstberatung anfragen",
+      "aboutSummaryTitle": "Kanzlei Gören",
+      "aboutSummaryText": "Wir bieten unseren Mandanten rechtliche Beratung auf höchstem Niveau. Mit Erfahrung und Entschlossenheit stehen wir an Ihrer Seite.",
+      "aboutSummaryCta": "Mehr erfahren",
+      "expertiseTitle": "Unsere Expertise",
+      "expertiseSubtitle": "Unsere Fachgebiete",
+      "expertiseTagline": "Professionelle Rechtsberatung auf Ihre Bedürfnisse zugeschnitten",
+      "learnMore": "Mehr erfahren",
+      "yearsExperience": "Jahre Erfahrung",
+      "casesWon": "Gewonnene Fälle",
+      "successRate": "Erfolgsquote",
+      "expertLegalCounsel": "Kompetente Rechtsberatung",
+      "quickContact": "Schnellkontakt",
+      "language": "Sprache / Language / Dil"
+    },
+    "footer": {
+      "quickLinks": "Schnellzugriff",
+      "impressum": "Impressum",
+      "datenschutz": "Datenschutz",
+      "rights": "© 2025 Kanzlei Gören. Alle Rechte vorbehalten."
+    },
+    "areas": {
+      "title": "Rechtsgebiete",
+      "family": "Familienrecht",
+      "labor": "Arbeitsrecht",
+      "immigration": "Ausländerrecht",
+      "traffic": "Straßenverkehrsrecht",
+      "civil": "Zivilrecht"
+    },
+    "areasDescriptions": {
+      "family": "Beratung und Vertretung in Scheidung, Unterhalt, Sorgerecht und Umgangsrecht. Wir finden tragfähige, faire Lösungen.",
+      "labor": "Kündigung, Abmahnung, Arbeitsvertrag, Aufhebungsvertrag und Lohnansprüche. Wir vertreten Arbeitnehmer:innen und Arbeitgeber.",
+      "immigration": "Aufenthaltstitel, Familiennachzug, Einbürgerung, Asylverfahren und Duldung. Souveräne Begleitung im Behörden- und Gerichtsverfahren.",
+      "traffic": "Unfallregulierung, Schmerzensgeld, Bußgeld- und Strafverfahren im Straßenverkehr. Schnelle und durchsetzungsstarke Vertretung.",
+      "civil": "Allgemeines Zivilrecht: Verträge, Forderungsmanagement, Kauf- und Werkvertragsrecht, Nachbarrecht, Schadensersatz."
+    },
+    "aboutPage": {
+      "title": "Über Uns",
+      "intro": "Kanzlei Gören bietet professionelle Rechtsberatung mit Fokus auf Zivilrecht, Arbeitsrecht, Ausländerrecht und Familienrecht. Unser Ziel ist es, für unsere Mandanten die besten Ergebnisse zu erzielen.",
+      "contact": {
+        "name": "Rechtsanwältin Meral Gören",
+        "tel": "Tel: 06201 - 84 57 95",
+        "fax": "Fax: 06201 - 84 57 96",
+        "email": "E-Mail: anwalt@kanzlei-goeren.de"
+      },
+      "firm": {
+        "title": "Die Kanzlei",
+        "text": "Die Rechtsanwaltskanzlei befindet sich in der Bürogemeinschaft mit Rechtsanwalt Jörg Armbruster, Fachanwalt für Arbeits- und Sozialrecht.",
+        "offices": {
+          "weinheim": {
+            "title": "Hauptsitz",
+            "address": "Bahnhofstr. 18, 1. OG, 69469 Weinheim",
+            "tel": "Tel: 06201 - 84 57 95",
+            "fax": "Fax: 06201 - 84 57 96"
+          },
+          "mannheim": {
+            "title": "Zweigstelle Mannheim",
+            "address": "C1, 5 (Am Stadthaus), 68159 Mannheim",
+            "tel": "Tel: 0621 - 820 47 838",
+            "fax": "Fax: 0621 - 820 47 839"
+          },
+          "worms": {
+            "title": "Zweigstelle Worms",
+            "address": "Judengasse 3, 67547 Worms",
+            "tel": "Tel: 06241 - 210 62 30",
+            "fax": "Fax: 06201 - 84 57 96"
+          }
+        }
+      }
+    },
+    "team": {
+      "title": "Unser Team",
+      "meral": {
+        "name": "Rechtsanwältin Meral Gören",
+        "bio": "Rechtsanwältin mit Schwerpunkt Zivil-, Familien- und Ausländerrecht."
+      },
+      "armbruster": {
+        "name": "Rechtsanwalt Jörg Armbruster",
+        "bio": "Fachanwalt für Arbeits- und Sozialrecht (Bürogemeinschaft)."
+      }
+    },
+    "teamDetails": {
+      "title": "Zur Person",
+      "name": "Rechtsanwältin Meral Gören",
+      "bio1": "Rechtsanwältin Meral Gören ist deutsche Staatsangehörige türkischer Herkunft. Sie studierte Rechtswissenschaften an der Ruprecht-Karls-Universität in Heidelberg und absolvierte im Jahre 2005 ihr 1. juristisches Staatsexamen.",
+      "bio2": "Anschließend erfolgte der zweijährige Vorbereitungsdienst als Rechtsreferendarin am Landgericht Heidelberg. Seit dem 06.06.2008 ist sie als Rechtsanwältin zugelassen. Sie ist in allen Amts- Landes- und Oberlandesgerichten vertretungsbefugt.",
+      "footer": "Rechtsanwältin Meral Gören, Bahnhofstr. 18, 69469 Weinheim"
+    },
+    "impressumPage": {
+      "title": "Impressum",
+      "provider": "Anbieterin: Meral Gören - Rechtsanwältin (Verantwortliche Ansprechperson nach § 6 Teledienstgesetz)",
+      "address": "Anschrift: Bahnhofstr. 18, 1. OG, 69469 Weinheim",
+      "phone": "Telefon: 06201 - 845795",
+      "fax": "TeleFax: 06201 - 845796",
+      "email": "E-Mail: anwalt@kanzlei-goeren.de",
+      "purpose": "Zweck dieses Webprojektes: Darstellung der angebotenen Dienstleistungen der Kanzlei.",
+      "copyright": "Urheberschutz: Urheberrechte für den Inhalt bei: Meral Gören",
+      "profession": "Gesetzliche Berufsbezeichnung: Die Berufsträgerin ist als Rechtsanwältin an allen Amts- Landes- und Oberlandesgerichten in der Bundesrepublik zugelassen.",
+      "authority": "Zuständige Aufsichtsbehörde: Rechtsanwaltskammer Karlsruhe, Reinhold-Frank-Str. 72, 76133 Karlsruhe. Tel.: 0721-25340",
+      "rules": "Berufsrechtliche Regelungen: BRAO, RVG, BORA, FAO – siehe www.brak.de",
+      "liability": "Haftung: Die Angaben dienen der allgemeinen Information und stellen keine Rechtsberatung dar. Für spezielle Fragen kontaktieren Sie uns bitte.",
+      "footer": "Rechtsanwältin Meral Gören, Bahnhofstr. 18, 69469 Weinheim"
+    },
+    "contact": {
+      "title": "Kontakt",
+      "form": {
+        "name": "Name",
+        "email": "E-Mail",
+        "phone": "Telefon",
+        "subject": "Betreff",
+        "message": "Nachricht",
+        "send": "Nachricht senden"
+      },
+      "addresses": {
+        "weinheim": "Weinheim (Hauptsitz)",
+        "mannheim": "Mannheim",
+        "worms": "Worms"
+      }
+    }
+  },
+  "en": {
+    "navigation": {
+      "home": "Home",
+      "about": "About Us",
+      "areas": "Practice Areas",
+      "team": "Our Team",
+      "contact": "Contact"
+    },
+    "home": {
+      "heroTitle": "We Help You To Your Right!",
+      "heroSubtitle": "Modern and effective solutions for your legal problems.",
+      "cta": "Request a Free Consultation",
+      "aboutSummaryTitle": "Kanzlei Gören",
+      "aboutSummaryText": "We provide top-quality legal counsel. With experience and determination, we are by your side.",
+      "aboutSummaryCta": "Learn More",
+      "expertiseTitle": "Our Expertise",
+      "expertiseSubtitle": "Our Practice Areas",
+      "expertiseTagline": "Professional legal services tailored to your needs",
+      "learnMore": "Learn More",
+      "yearsExperience": "Years Experience",
+      "casesWon": "Cases Won",
+      "successRate": "Success Rate",
+      "expertLegalCounsel": "Expert Legal Counsel",
+      "quickContact": "Quick Contact",
+      "language": "Language / Sprache / Dil"
+    },
+    "footer": {
+      "quickLinks": "Quick Links",
+      "impressum": "Imprint",
+      "datenschutz": "Privacy Policy",
+      "rights": "© 2025 Kanzlei Gören. All rights reserved."
+    },
+    "areas": {
+      "title": "Practice Areas",
+      "family": "Family Law",
+      "labor": "Labor Law",
+      "immigration": "Immigration Law",
+      "traffic": "Traffic Law",
+      "civil": "Civil Law"
+    },
+    "areasDescriptions": {
+      "family": "Counsel and representation in divorce, maintenance, custody and visitation. We strive for sustainable, fair outcomes.",
+      "labor": "Termination, warnings, contracts, separation agreements and wage claims. We represent employees and employers.",
+      "immigration": "Residence permits, family reunification, naturalization, asylum and toleration. Confident guidance before authorities and courts.",
+      "traffic": "Accident claims, pain and suffering, administrative fines and traffic offenses. Fast and assertive representation.",
+      "civil": "General civil law: contracts, claims, purchase and service law, neighbor disputes, damages."
+    },
+    "aboutPage": {
+      "title": "About Us",
+      "intro": "Kanzlei Gören provides professional legal counsel with a focus on civil, labor, immigration and family law. Our aim is to achieve the best possible outcomes for our clients.",
+      "contact": {
+        "name": "Attorney Meral Gören",
+        "tel": "Phone: +49 6201 - 84 57 95",
+        "fax": "Fax: +49 6201 - 84 57 96",
+        "email": "Email: anwalt@kanzlei-goeren.de"
+      },
+      "firm": {
+        "title": "The Law Firm",
+        "text": "Our office operates in partnership (Bürogemeinschaft) with Attorney Jörg Armbruster, specialist lawyer for labor and social law.",
+        "offices": {
+          "weinheim": {
+            "title": "Head Office",
+            "address": "Bahnhofstr. 18, 1st floor, 69469 Weinheim",
+            "tel": "Phone: +49 6201 - 84 57 95",
+            "fax": "Fax: +49 6201 - 84 57 96"
+          },
+          "mannheim": {
+            "title": "Branch Mannheim",
+            "address": "C1, 5 (Am Stadthaus), 68159 Mannheim",
+            "tel": "Phone: +49 621 - 820 47 838",
+            "fax": "Fax: +49 621 - 820 47 839"
+          },
+          "worms": {
+            "title": "Branch Worms",
+            "address": "Judengasse 3, 67547 Worms",
+            "tel": "Phone: +49 6241 - 210 62 30",
+            "fax": "Fax: +49 6201 - 84 57 96"
+          }
+        }
+      }
+    },
+    "team": {
+      "title": "Our Team",
+      "meral": {
+        "name": "Attorney Meral Gören",
+        "bio": "Attorney focused on civil, family and immigration law."
+      },
+      "armbruster": {
+        "name": "Attorney Jörg Armbruster",
+        "bio": "Specialist lawyer for labor and social law (office partnership)."
+      }
+    },
+    "teamDetails": {
+      "title": "Biography",
+      "name": "Attorney Meral Gören",
+      "bio1": "Attorney Meral Gören is a German citizen of Turkish origin. She studied law at Heidelberg University and passed her First State Examination in 2005.",
+      "bio2": "She then completed a two-year legal traineeship at Heidelberg Regional Court. Since 06.06.2008, she has been admitted to practice law and is authorized to represent before all local, regional and higher regional courts in Germany.",
+      "footer": "Attorney Meral Gören, Bahnhofstr. 18, 69469 Weinheim"
+    },
+    "impressumPage": {
+      "title": "Imprint",
+      "provider": "Provider: Meral Gören – Attorney at Law (Responsible person under § 6 Teleservices Act)",
+      "address": "Address: Bahnhofstr. 18, 1st floor, 69469 Weinheim",
+      "phone": "Phone: +49 6201 - 845795",
+      "fax": "Fax: +49 6201 - 845796",
+      "email": "Email: anwalt@kanzlei-goeren.de",
+      "purpose": "Purpose of this website: Presentation of the law firm’s services.",
+      "copyright": "Copyright: Content rights owned by Meral Gören.",
+      "profession": "Professional title: Attorney at Law admitted to practice before all courts of first and second instance in Germany.",
+      "authority": "Supervisory authority: Bar Association Karlsruhe, Reinhold-Frank-Str. 72, 76133 Karlsruhe. Tel.: +49 721 25340",
+      "rules": "Professional rules: BRAO, RVG, BORA, FAO – see www.brak.de",
+      "liability": "Liability: The information provided is for general purposes only and does not constitute legal advice.",
+      "footer": "Attorney Meral Gören, Bahnhofstr. 18, 69469 Weinheim"
+    },
+    "contact": {
+      "title": "Contact",
+      "form": {
+        "name": "Name",
+        "email": "Email",
+        "phone": "Phone",
+        "subject": "Subject",
+        "message": "Message",
+        "send": "Send Message"
+      },
+      "addresses": {
+        "weinheim": "Weinheim (Head Office)",
+        "mannheim": "Mannheim",
+        "worms": "Worms"
+      }
+    }
+  },
+  "tr": {
+    "navigation": {
+      "home": "Ana Sayfa",
+      "about": "Hakkımızda",
+      "areas": "Uzmanlık Alanları",
+      "team": "Ekibimiz",
+      "contact": "İletişim"
+    },
+    "home": {
+      "heroTitle": "Haklarınız İçin Buradayız!",
+      "heroSubtitle": "Hukuki sorunlarınıza modern ve etkili çözümler.",
+      "cta": "Ücretsiz Danışma Talep Edin",
+      "aboutSummaryTitle": "Kanzlei Gören",
+      "aboutSummaryText": "Müvekkillerimize en yüksek kalitede hukuki danışmanlık sunuyoruz. Tecrübemiz ve kararlılığımızla yanınızdayız.",
+      "aboutSummaryCta": "Daha Fazla Bilgi",
+      "expertiseTitle": "Uzmanlık Alanlarımız",
+      "expertiseSubtitle": "Hizmet Alanlarımız",
+      "expertiseTagline": "İhtiyaçlarınıza özel profesyonel hukuki hizmetler",
+      "learnMore": "Detaylı Bilgi",
+      "yearsExperience": "Yıllık Tecrübe",
+      "casesWon": "Kazanılan Dava",
+      "successRate": "Başarı Oranı",
+      "expertLegalCounsel": "Uzman Hukuki Danışmanlık",
+      "quickContact": "Hızlı İletişim",
+      "language": "Dil / Language / Sprache"
+    },
+    "footer": {
+      "quickLinks": "Hızlı Linkler",
+      "impressum": "Künye",
+      "datenschutz": "Gizlilik Politikası",
+      "rights": "© 2025 Kanzlei Gören. Tüm hakları saklıdır."
+    },
+    "areas": {
+      "title": "Uzmanlık Alanları",
+      "family": "Aile Hukuku",
+      "labor": "İş Hukuku",
+      "immigration": "Yabancılar Hukuku",
+      "traffic": "Trafik Hukuku",
+      "civil": "Medeni Hukuk"
+    },
+    "areasDescriptions": {
+      "family": "Boşanma, nafaka, velayet ve kişisel ilişki davaları. Sürdürülebilir ve adil çözümler için yanınızdayız.",
+      "labor": "Fesih, ihtar, iş sözleşmesi, ikale ve ücret alacakları. İşçi ve işveren vekilliği.",
+      "immigration": "Oturma izni, aile birleşimi, vatandaşlık, iltica ve tolerans (Duldung) süreçleri. Kurumlar ve mahkemeler nezdinde güvenli takip.",
+      "traffic": "Kaza tazminatı, manevi tazminat, trafik idari para cezası ve ceza davaları. Hızlı ve etkin temsil.",
+      "civil": "Genel medeni hukuk: sözleşmeler, alacak takibi, satış ve hizmet sözleşmeleri, komşuluk hukuku, tazminat."
+    },
+    "aboutPage": {
+      "title": "Hakkımızda",
+      "intro": "Kanzlei Gören; medeni hukuk, iş hukuku, yabancılar hukuku ve aile hukuku alanlarında profesyonel hukuki danışmanlık sunar. Amacımız müvekkillerimiz için en iyi sonuçları elde etmektir.",
+      "contact": {
+        "name": "Avukat Meral Gören",
+        "tel": "Tel: 06201 - 84 57 95",
+        "fax": "Faks: 06201 - 84 57 96",
+        "email": "E‑posta: anwalt@kanzlei-goeren.de"
+      },
+      "firm": {
+        "title": "Kanzleimiz",
+        "text": "Kanzleimiz, İş ve Sosyal Hukuk uzmanı Avukat Jörg Armbruster ile büro ortaklığı (Bürogemeinschaft) içinde faaliyet göstermektedir.",
+        "offices": {
+          "weinheim": {
+            "title": "Merkez Ofis",
+            "address": "Bahnhofstr. 18, 1. Kat, 69469 Weinheim",
+            "tel": "Tel: 06201 - 84 57 95",
+            "fax": "Faks: 06201 - 84 57 96"
+          },
+          "mannheim": {
+            "title": "Mannheim Şube",
+            "address": "C1, 5 (Am Stadthaus), 68159 Mannheim",
+            "tel": "Tel: 0621 - 820 47 838",
+            "fax": "Faks: 0621 - 820 47 839"
+          },
+          "worms": {
+            "title": "Worms Şube",
+            "address": "Judengasse 3, 67547 Worms",
+            "tel": "Tel: 06241 - 210 62 30",
+            "fax": "Faks: 06201 - 84 57 96"
+          }
+        }
+      }
+    },
+    "team": {
+      "title": "Ekibimiz",
+      "meral": {
+        "name": "Avukat Meral Gören",
+        "bio": "Medeni, aile ve yabancılar hukuku alanlarında çalışan avukat."
+      },
+      "armbruster": {
+        "name": "Avukat Jörg Armbruster",
+        "bio": "İş ve sosyal hukuk uzmanı (Bürogemeinschaft)."
+      }
+    },
+    "teamDetails": {
+      "title": "Zur Person",
+      "name": "Avukat Meral Gören",
+      "bio1": "Avukat Meral Gören, Türk kökenli Alman vatandaşıdır. Heidelberg Üniversitesi’nde hukuk okumuş ve 2005 yılında birinci devlet sınavını geçmiştir.",
+      "bio2": "Ardından Heidelberg Bölge Mahkemesi’nde iki yıllık hukuk stajını tamamlamıştır. 06.06.2008 tarihinden beri avukattır ve Almanya’daki tüm mahkemelerde temsil yetkisine sahiptir.",
+      "footer": "Avukat Meral Gören, Bahnhofstr. 18, 69469 Weinheim"
+    },
+    "impressumPage": {
+      "title": "Künye",
+      "provider": "Hizmet sağlayıcı: Avukat Meral Gören (Teleservisler Yasası §6 uyarınca sorumlu kişi)",
+      "address": "Adres: Bahnhofstr. 18, 1. Kat, 69469 Weinheim",
+      "phone": "Telefon: 06201 - 845795",
+      "fax": "Faks: 06201 - 845796",
+      "email": "E‑posta: anwalt@kanzlei-goeren.de",
+      "purpose": "Bu web sitesinin amacı: Kanzleimizin sunduğu hizmetlerin tanıtımı.",
+      "copyright": "Telif: İçerik hakları Meral Gören’e aittir.",
+      "profession": "Mesleki unvan: Avukat; Almanya’da tüm ilk derece ve istinaf mahkemelerinde temsil yetkisine sahiptir.",
+      "authority": "Denetim makamı: Karlsruhe Barosu, Reinhold‑Frank‑Str. 72, 76133 Karlsruhe. Tel.: 0721‑25340",
+      "rules": "Meslek kuralları: BRAO, RVG, BORA, FAO – bkz. www.brak.de",
+      "liability": "Sorumluluk: Buradaki bilgiler genel niteliktedir ve hukuki danışmanlık teşkil etmez.",
+      "footer": "Avukat Meral Gören, Bahnhofstr. 18, 69469 Weinheim"
+    },
+    "contact": {
+      "title": "İletişim",
+      "form": {
+        "name": "Ad Soyad",
+        "email": "E-posta",
+        "phone": "Telefon",
+        "subject": "Konu",
+        "message": "Mesaj",
+        "send": "Mesaj Gönder"
+      },
+      "addresses": {
+        "weinheim": "Weinheim (Merkez)",
+        "mannheim": "Mannheim",
+        "worms": "Worms"
+      }
+    }
+  }
+}
